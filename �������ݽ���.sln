@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "银江数据接收", "银江数据接收\银江数据接收.vcproj", "{48CEFCC6-9548-4855-980B-60F83B81938A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48CEFCC6-9548-4855-980B-60F83B81938A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{48CEFCC6-9548-4855-980B-60F83B81938A}.Debug|Win32.Build.0 = Debug|Win32
+		{48CEFCC6-9548-4855-980B-60F83B81938A}.Release|Win32.ActiveCfg = Release|Win32
+		{48CEFCC6-9548-4855-980B-60F83B81938A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
